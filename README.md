@@ -29,6 +29,6 @@
   
   [![](https://visitcount.itsvg.in/api?id=Shubhae&icon=10&color=6)](https://visitcount.itsvg.in)
   ![snake gif](https://github.com/Shubhae/Shubhae/blob/output/github-snake-dark.svg)
-  [![trophy](https://github-profile-trophy.vercel.app/?Shubhae=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Shubhae&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
