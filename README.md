@@ -29,7 +29,6 @@
 <!-- Snake Animation -->
 <div align="center">
 ![snake gif](https://github.com/Shubhae/Shubhae/blob/output/github-snake-dark.svg)
-
 </div>
 
 <!-- Visit Counter -->
